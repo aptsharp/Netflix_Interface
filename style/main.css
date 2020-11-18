@@ -88,3 +88,9 @@ header nav a:hover{
 .container{
     margin-left: 30px;
 }
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
