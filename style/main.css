@@ -98,3 +98,18 @@ header nav a:hover{
 .carrosel-filmes{
     margin-top: 10px;
 }
+
+/* footer */
+
+.bg-footer{
+    background-color: black;
+    color: white;
+    text-align: end;
+    padding-right: 5px;
+}
+.coracao{
+    color: red;
+}
+.Amaior{
+    color: rgb(240, 98, 98);
+}
